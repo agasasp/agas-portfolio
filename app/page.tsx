@@ -9,31 +9,21 @@ import Contact from "@/sections/Contact";
 import Footer from "@/components/layout/Footer";
 import ScrollTop from "@/components/ScrollTop";
 
-
 export default function Home() {
   return (
     <>
       <Background />
       <Navbar />
-
       <main className="bg-slate-950 text-white">
-
-  <Hero />
-
-  <About />
-
-  <Experience />
-
-  <Projects />
-
-  <Skills />
-
-  <Contact />
-
-</main>
-
-<Footer />
+        <Hero />
+        <About />
+        <Experience />
+        <Projects />
+        <Skills />
+        <Contact />
+      </main>
+      <Footer />
+      <ScrollTop />
     </>
   );
 }
-<ScrollTop />

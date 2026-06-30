@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import { TypeAnimation } from "react-type-animation";
 
 import Button from "@/components/ui/Button";
-import { personalInfo, stats } from "@/data/portofolio";
+import { personalInfo } from "@/data/portofolio";
 
 export default function Hero() {
   return (

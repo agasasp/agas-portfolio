@@ -11,7 +11,7 @@ export const personalInfo = {
 
   email: "agasasp1@gmail.com",
 
-  phone: "6281234567890",
+  phone: "+6281234567890",
 
   github: "https://github.com/agasasp",
 
@@ -20,7 +20,7 @@ export const personalInfo = {
 
 export const stats = [
   {
-    value: "30sss",
+    value: "30+",
     label: "Projects",
   },
   {
@@ -131,7 +131,7 @@ export const projects = [
 export const skills = [
   {
     name: "Playwright",
-    icon: "/icons/playwright.svg",
+    icon: "/icons/Playwright.svg",
     category: "Automation Testing",
   },
   {
@@ -166,7 +166,7 @@ export const skills = [
   },
   {
     name: "SQL",
-    icon: "/icons/database.svg",
+    icon: "/icons/typescript.svg",
     category: "Database",
   },
   {
@@ -188,8 +188,6 @@ export const skills = [
     name: "Tailwind CSS",
     icon: "/icons/tailwindcss.svg",
     category: "CSS Framework",
-
-    image: "/projects/firstmedia.png",
   },
 ];
 

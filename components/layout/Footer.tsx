@@ -20,28 +20,26 @@ export default function Footer() {
           </p>
 
           <div className="flex gap-6 text-gray-400">
+            <a
+              href={personalInfo.github}
+              className="hover:text-blue-400 transition"
+            >
+              GitHub
+            </a>
 
             <a
-  href={personalInfo.github}
-  className="hover:text-blue-400 transition"
->
-  GitHub
-</a>
+              href={personalInfo.linkedin}
+              className="hover:text-blue-400 transition"
+            >
+              LinkedIn
+            </a>
 
-<a
-  href={personalInfo.linkedin}
-  className="hover:text-blue-400 transition"
->
-  LinkedIn
-</a>
-
-<a
-  href={`mailto:${personalInfo.email}`}
-  className="hover:text-blue-400 transition"
->
-  Email
-</a>
-
+            <a
+              href={`mailto:${personalInfo.email}`}
+              className="hover:text-blue-400 transition"
+            >
+              Email
+            </a>
           </div>
 
           <div className="flex items-center gap-2 text-gray-500 text-sm">
