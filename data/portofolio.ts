@@ -1,5 +1,5 @@
 export const personalInfo = {
-  name: "Agas Adiyat Sheva Putra",
+  name: "Agasasp",
   title: "Quality Assurance Engineer",
 
   subtitle:
