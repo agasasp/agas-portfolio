@@ -52,9 +52,9 @@ export const experiences = [
 
 export const projects = [
   {
-    title: "First Media",
+    title: "Project",
 
-    company: "PT Link Net",
+    company: "Project",
 
     category: "Customer Mobile App",
 
@@ -71,9 +71,9 @@ export const projects = [
   },
 
   {
-    title: "Bayu Buana",
+    title: "Project",
 
-    company: "PT Bayu Buana",
+    company: "Project",
 
     category: "Travel Platform",
 
@@ -109,7 +109,7 @@ export const projects = [
   },
 
   {
-    title: "Multi Tiket",
+    title: "MultiTiket",
 
     company: "Travel Booking",
 
