@@ -105,30 +105,6 @@ export default function Hero() {
             🚀 View Projects
           </Button>
         </motion.div>
-
-        {/* Stats */}
-        <motion.div
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{ delay: 0.7 }}
-          className="mt-20 grid w-full grid-cols-2 gap-6 md:grid-cols-4"
-        >
-          {stats.map((stat) => (
-            <div
-              key={stat.label}
-              className="rounded-2xl border border-white/10 bg-white/5 p-6 backdrop-blur-xl"
-            >
-              <h3 className="text-3xl font-bold text-blue-400 md:text-4xl">
-                {stat.value}
-              </h3>
-
-              <p className="mt-2 text-sm text-gray-400 md:text-base">
-                {stat.label}
-              </p>
-            </div>
-          ))}
-        </motion.div>
-
       </div>
     </section>
   );

@@ -2,7 +2,7 @@ import "./globals.css";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Agas Putra | Quality Assurance Engineer",
+  title: "Agasasp | Quality Assurance Engineer",
   description:
     "Portfolio Agas Putra - Quality Assurance Engineer yang berpengalaman dalam Manual Testing, Automation Testing, API Testing menggunakan Playwright, TypeScript, dan Postman.",
 
@@ -17,11 +17,11 @@ export const metadata: Metadata = {
 
   authors: [
     {
-      name: "Agas Putra",
+      name: "Agasasp",
     },
   ],
 
-  creator: "Agas Putra",
+  creator: "Agasasp",
 };
 
 export default function RootLayout({

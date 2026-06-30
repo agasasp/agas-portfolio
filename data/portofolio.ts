@@ -20,7 +20,7 @@ export const personalInfo = {
 
 export const stats = [
   {
-    value: "30",
+    value: "30sss",
     label: "Projects",
   },
   {
