@@ -15,7 +15,7 @@ export const personalInfo = {
 
   github: "https://github.com/agasasp",
 
-  linkedin: "https://linkedin.com/in/agasasp",
+  linkedin: "https://www.linkedin.com/in/agas-adiyat-sheva-p-736036209/",
 };
 
 export const stats = [
