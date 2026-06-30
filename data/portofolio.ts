@@ -5,7 +5,7 @@ export const personalInfo = {
   subtitle:
     "Quality Assurance Engineer yang berpengalaman dalam Manual Testing, Automation Testing menggunakan Playwright, API Testing, Regression Testing, dan memastikan kualitas aplikasi web maupun mobile.",
 
-  profileImage: "/profile.jpg",
+  profileImage: "/profile.jpeg",
 
   cv: "/cv.pdf",
 
